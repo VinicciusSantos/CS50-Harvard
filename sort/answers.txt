@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Fast in the better case, but the worst in the reverse case
+
+sort2 uses: Merge Sort
+
+How do you know?: The Fast way in all the executions
+
+sort3 uses: Selection Sort
+
+How do you know?: Similar execution times in all the tests
